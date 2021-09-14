@@ -158,6 +158,11 @@ body {
 <div class="footer">
   <h2>Footer</h2>
 </div>
+  
+  body {
+  background-color: lightblue;
+}
+</style>
 
 </body>
 </html>
