@@ -2,10 +2,6 @@
 <head>
 <style>
   
- body {
-  background-color: lightblue;
-}
-</style>
 * {
   box-sizing: border-box;
 }
